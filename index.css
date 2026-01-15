@@ -51,6 +51,9 @@ align-items: center;
   color: #000000; 
   font-weight:600;
 }
+#navber ul li a:hover{
+    color: #30B868;
+}
 
 #hero-section {
     min-width: 1330px;
